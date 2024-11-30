@@ -1,4 +1,4 @@
-Spring Boot 프로젝트 맛있는재활용
+![chrome_Qi7ScKJSXE](https://github.com/user-attachments/assets/1e3b7bdf-0152-47c6-a62d-ceeffd74496b)Spring Boot 프로젝트 맛있는재활용
 =
 
 > 작업기간: 2024.09.27 ~ 2023.11.15 <br>
@@ -576,8 +576,8 @@ Spring Boot 프로젝트 맛있는재활용
 
 <br>
 
-## 2. 찜목록, 내가 쓴 레시피, 내가 쓴 게시글, 신고 받은 글, 포인트 내역
-
+## 3. 찜목록, 내가 쓴 레시피, 내가 쓴 게시글, 신고 받은 글, 포인트 내역
+<img src="https://github.com/user-attachments/assets/c9817085-c16e-4946-959c-1bcc26e8a31a" alt="기능 설명 이미지" width="800">
 
 - **찜목록**  
   - 이미지 또는 제목 클릭: 해당 상세 페이지로 이동
