@@ -608,7 +608,20 @@ Spring Boot 프로젝트 맛있는재활용
   - 재 클릭 시: "이미 출석체크가 완료되었습니다"라는 Alert 창 띄움
     
     </details>
-  
+
+   <details>
+<summary>에러페이지</summary>
+
+## 에러페이지
+<img src="https://github.com/user-attachments/assets/8993ffe2-a367-4356-a8d4-f9617062a93c" alt="에러페이지" width="800">
+
+- **에러페이지**  
+  - 403 에러 : 접근 권한이 없습니다 에러
+  - 404 에러 : 요청하신 페이지를 찾을 수 없습니다 에러
+  - 500 에러 : 알 수 없는 오류가 발생했습니다 에러
+
+  </details>
+
  ### 6️⃣ DB 설계
 
 <details>
