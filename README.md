@@ -468,7 +468,8 @@ Spring Boot 프로젝트 맛있는재활용
  <br/>    
 
  ### 5️⃣ 내가 담당한 기능
-![Uploading chrome_ibHecfC9GC.gif…]()
+![chrome_ibHecfC9GC](https://github.com/user-attachments/assets/8b632d27-5150-4b82-b007-b41f81526f76)
+
 
 
    
