@@ -596,12 +596,18 @@ Spring Boot 프로젝트 맛있는재활용
    <details>
 <summary>출석체크</summary>
 
-## 출석 체크
-<img src="https://github.com/user-attachments/assets/c9817085-c16e-4946-959c-1bcc26e8a31a" alt="기능 설명 이미지" width="800">
+## 1. 출석체크
+<img src="https://github.com/user-attachments/assets/c7b0202d-47ba-4da6-8151-a50b9315b571" alt="출석체크 기능" width="800">
 
 - **출석체크**  
   - 출석체크 버튼 클릭: 10 포인트 적립
   - 재 클릭 시: "이미 출석 체크가 완료되었습니다"라는 Alert 창 띄움
+ 
+<br>
+
+## 2. 출석체크(개근)
+<img src="https://github.com/user-attachments/assets/1a6c9118-265f-483f-a547-bf0c7d9464ab" alt="기능 설명 이미지" width="800">
+
 - **출석체크(개근)**  
   - 매월 말 하루도 빠짐없이 출석체크 시: 개근 포인트 적립
   - 출석체크 버튼 클릭: 10 포인트 적립 및 개근상 200 포인트 추가 적립
