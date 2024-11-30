@@ -70,7 +70,6 @@ Spring Boot 프로젝트 맛있는재활용
 ### 4️⃣ 패키지 구조
    
 <details>
-  
 <summary>패키지 구조 보기 (Click)</summary>   
  
 
@@ -465,7 +464,6 @@ Spring Boot 프로젝트 맛있는재활용
  ```
   
  </details>   
- <br/>    
 
  ### 5️⃣ 내가 담당한 기능
 
