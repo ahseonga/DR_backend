@@ -566,7 +566,7 @@ Spring Boot 프로젝트 맛있는재활용
 
  <br>
 
- ## 2. 회원탈퇴
+## 2. 회원탈퇴
 <img src="https://github.com/user-attachments/assets/268e03d7-1c71-42ba-8376-462153e08637" alt="회원 탈퇴 안내" width="800">
 
 - **안내 사항 체크**  
