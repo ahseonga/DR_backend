@@ -1,4 +1,4 @@
-Spring Boot 프로젝트 맛있는재활용
+![chrome_YPs8TBzxE5](https://github.com/user-attachments/assets/73d8044d-a2a4-4bd0-b520-00fd9c69c26a)Spring Boot 프로젝트 맛있는재활용
 =
 
 > 작업기간: 2024.09.27 ~ 2023.11.15 <br>
@@ -471,12 +471,25 @@ Spring Boot 프로젝트 맛있는재활용
 
  <details>
 <summary>나만의 랭킹</summary>
-<img src="https://github.com/user-attachments/assets/8b632d27-5150-4b82-b007-b41f81526f76" alt="설명" width="800">
+1) 나만의 랭킹 페이지 목록
+<img src="https://github.com/user-attachments/assets/8b632d27-5150-4b82-b007-b41f81526f76" alt="나만의 랭킹 페이지" width="800">
 <br>
 - 중복 점수 포함 순위 50위까지 확인 및 페이지네이션 기능 구현
 <br>
 - 점수 및 포인트 적립 방법
+
+2) 포인트 자동 지급(1위 ~ 5위)
+
+<img src="https://github.com/user-attachments/assets/4d363ec2-7fff-4f98-abd4-8e9a03f030fd" alt="포인트 자동 지급(1위 ~ 5위)" width="800">
+<br>
+- @Scheduled 어노테이션을 사용해 월초 포인트 자동 지급 
+<br>
+- 1위 ~ 5위 총 500포인트 적립 포인트 내역에서 확인 
+
+   
 </details>
+
+
 
    
  ### 6️⃣ DB 설계
