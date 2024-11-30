@@ -592,9 +592,25 @@ Spring Boot 프로젝트 맛있는재활용
   - 최신순으로 적립 및 소모 포인트 확인
 
   </details>
+
+   <details>
+<summary>출석체크</summary>
+
+## 출석 체크
+<img src="https://github.com/user-attachments/assets/c9817085-c16e-4946-959c-1bcc26e8a31a" alt="기능 설명 이미지" width="800">
+
+- **출석체크**  
+  - 출석체크 버튼 클릭: 10 포인트 적립
+  - 재 클릭 시: "이미 출석 체크가 완료되었습니다"라는 Alert 창 띄움
+- **출석체크(개근)**  
+  - 매월 말 하루도 빠짐없이 출석체크 시: 개근 포인트 적립
+  - 출석체크 버튼 클릭: 10 포인트 적립 및 개근상 200 포인트 추가 적립
+  - 재 클릭 시: "이미 출석체크가 완료되었습니다"라는 Alert 창 띄움
+
   
  ### 6️⃣ DB 설계
 
+<details>
  ![ERD](https://github.com/user-attachments/assets/3f72fc6e-dcac-4a73-83cb-4cb9baa6a438)
 ※엔티티 관계도 이미지 클릭후 확대 가능합니다
 
@@ -615,7 +631,8 @@ Spring Boot 프로젝트 맛있는재활용
 ![ERD_CHAT](https://github.com/user-attachments/assets/715f2092-95dc-44fa-8881-4715add9245b)
 
 <br/>
- 
+
+ </details>
 ### 7️⃣ 프로젝트 보완사항
  
 현재 구현한 챗봇은 DB에서 채팅방 세션 테이블을 따로 관리하여 정해진 채팅방이 있지만,<br>
