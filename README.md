@@ -564,7 +564,18 @@ Spring Boot 프로젝트 맛있는재활용
   - 이미 사용 중인 닉네임: 이미 사용된 닉네임 입력 시 빨간색 표시
   - 수정 완료 시 중복 닉네임: 중복된 닉네임 입력 후 수정완료 클릭 시 "닉네임 또는 이미지 확인" Alert 표시
 
-   
+ <br>
+
+ ## 2. 회원탈퇴
+<img src="https://github.com/user-attachments/assets/268e03d7-1c71-42ba-8376-462153e08637" alt="회원 탈퇴 안내" width="800">
+
+- **안내 사항 체크**  
+  - 회원 탈퇴 전에 안내 사항을 체크해야만 탈퇴 버튼을 클릭
+- **닉네임 변경**  
+  - 탈퇴 확인: "정말 탈퇴하시겠습니까?"라는 재확인 메시지를 표시한 후, 탈퇴가 완료되면 완료 페이지로 이동
+
+  </details>
+  
  ### 6️⃣ DB 설계
 
  ![ERD](https://github.com/user-attachments/assets/3f72fc6e-dcac-4a73-83cb-4cb9baa6a438)
