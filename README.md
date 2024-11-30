@@ -468,8 +468,15 @@ Spring Boot 프로젝트 맛있는재활용
  <br/>    
 
  ### 5️⃣ 내가 담당한 기능
-<img src="https://github.com/user-attachments/assets/8b632d27-5150-4b82-b007-b41f81526f76" alt="설명" width="800">
 
+ <details>
+<summary>나만의 랭킹</summary>
+<img src="https://github.com/user-attachments/assets/8b632d27-5150-4b82-b007-b41f81526f76" alt="설명" width="800">
+<br>
+- 중복 점수 포함 순위 50위까지 확인 및 페이지네이션 기능 구현
+<br>
+- 점수 및 포인트 적립 방법
+</details>
 
    
  ### 6️⃣ DB 설계
