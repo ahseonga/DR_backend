@@ -612,6 +612,7 @@ Spring Boot 프로젝트 맛있는재활용
  ### 6️⃣ DB 설계
 
 <details>
+  
  ![ERD](https://github.com/user-attachments/assets/3f72fc6e-dcac-4a73-83cb-4cb9baa6a438)
 ※엔티티 관계도 이미지 클릭후 확대 가능합니다
 
