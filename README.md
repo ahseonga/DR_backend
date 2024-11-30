@@ -517,7 +517,7 @@ Spring Boot 프로젝트 맛있는재활용
 <br>
 
 ## 5. 포인트 자동 지급 (21위 ~ 30위)
-<img src="https://github.com/user-attachments/assets/c874be93-8f0a-4029-ad5b-3917d4ad6899" alt="포인트 사용 내역 관리" width="800">
+<img src="https://github.com/user-attachments/assets/c874be93-8f0a-4029-ad5b-3917d4ad6899" alt="포인트 자동 지급(21위~30위)" width="800">
 
 - **자동화된 포인트 지급 시스템**  
   - `@Scheduled` 어노테이션을 활용해 **매월 초** 포인트 자동 지급  
@@ -525,8 +525,28 @@ Spring Boot 프로젝트 맛있는재활용
   - 11위 ~ 20위 사용자에게 **총 200포인트** 지급  
   - 지급 내역은 포인트 내역 페이지에서 확인 가능
  
+<br>
+
+## 6. 포인트 자동 지급 (31위 ~ 50위)
+<img src="https://github.com/user-attachments/assets/a85498f7-1ef7-4d62-8dd1-e2085a8f9a96" alt="포인트 자동 지급(31위~50위)" width="800">
+
+- **자동화된 포인트 지급 시스템**  
+  - `@Scheduled` 어노테이션을 활용해 **매월 초** 포인트 자동 지급  
+- **포인트 적립 세부 내용**  
+  - 11위 ~ 20위 사용자에게 **총 100포인트** 지급  
+  - 지급 내역은 포인트 내역 페이지에서 확인 가능
+
+<br>
+
+## 6. 포인트 자동 지급 (그외 등수 사용자)
+<img src="https://github.com/user-attachments/assets/00bda401-4ec5-4aff-a2c7-13c4dd461156" alt="포인트 자동 지급(그외 등수 사용자)" width="800">
 
 
+- **자동화된 포인트 지급 시스템**  
+  - `@Scheduled` 어노테이션을 활용해 **매월 초** 포인트 자동 지급  
+- **포인트 적립 세부 내용**  
+  - 11위 ~ 20위 사용자에게 **총 50포인트** 지급  
+  - 지급 내역은 포인트 내역 페이지에서 확인 가능
 
    
 </details>
