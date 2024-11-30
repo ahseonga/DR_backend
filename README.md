@@ -1,4 +1,4 @@
-![chrome_Qi7ScKJSXE](https://github.com/user-attachments/assets/1e3b7bdf-0152-47c6-a62d-ceeffd74496b)Spring Boot 프로젝트 맛있는재활용
+Spring Boot 프로젝트 맛있는재활용
 =
 
 > 작업기간: 2024.09.27 ~ 2023.11.15 <br>
